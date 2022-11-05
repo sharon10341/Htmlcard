@@ -1,8 +1,11 @@
 body{
     padding: 30px;
     font-family: sans-serif;
+    width: 300px;
+    justify-content: left;
 
 }
+
 a.btn{
     text-decoration: none;
     Font-size: 16px;
@@ -18,8 +21,37 @@ a.btn{
     margin: 300px auto;
     background: transparent;
     position: relative;
+    margin-left: 10px;
 
 }
-ul{
+/* ul{
     list-style-type: circle;
+} */
+
+.Class-1{
+width: 200px;
+margin-left: 10px;
+}
+.Card{
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+.listy{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.new{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 30px;
+}
+.Class3{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #333;
+    margin-left: 10px;
+    /* height: 200%; */
+}
+.Class4{
+    margin-left: 10px;
 }
