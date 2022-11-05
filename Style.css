@@ -1,0 +1,25 @@
+body{
+    padding: 30px;
+    font-family: sans-serif;
+
+}
+a.btn{
+    text-decoration: none;
+    Font-size: 16px;
+    width: 240;
+    height: 60px;
+    border-radius: 80px;
+    /* line-height: 60px;; */
+    text-align: center;
+    border: 1px solid #000;
+    color: black;
+    /* background-color: white; */
+    padding: 10px 20px;
+    margin: 300px auto;
+    background: transparent;
+    position: relative;
+
+}
+ul{
+    list-style-type: circle;
+}
